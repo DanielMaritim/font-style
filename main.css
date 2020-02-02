@@ -1,0 +1,9 @@
+h1 {
+	font-style:normal;
+}
+h1.two {
+	font-style:italic;
+}
+h1.one {
+	font-style:oblique;
+}
